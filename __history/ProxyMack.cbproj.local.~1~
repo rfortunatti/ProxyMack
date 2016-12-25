@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2012/04/24 23:28:36.581,=C:\Users\Rafael Fortunatti\Documents\RAD Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2012/04/25 00:21:43.982,=C:\Users\Rafael Fortunatti\Documents\RAD Studio\Projects\New1.bat</Transaction>
+    <Transaction>2012/04/25 00:22:08.782,C:\Users\Rafael Fortunatti\Documents\RAD Studio\Projects\habilita.bat=C:\Users\Rafael Fortunatti\Documents\RAD Studio\Projects\New1.bat</Transaction>
+    <Transaction>2012/04/25 00:30:15.996,C:\D\Programinhas\C-C++\ProxyMack\Program.cpp=C:\Users\Rafael Fortunatti\Documents\RAD Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2012/04/25 00:30:26.336,C:\D\Programinhas\C-C++\ProxyMack\habilita.bat=C:\Users\Rafael Fortunatti\Documents\RAD Studio\Projects\habilita.bat</Transaction>
+    <Transaction>2012/04/25 00:30:31.400,C:\D\Programinhas\C-C++\ProxyMack\ProxyMack.cbproj=C:\Users\Rafael Fortunatti\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2012/04/25 00:43:59.747,=C:\D\Programinhas\C-C++\ProxyMack\New1.bat</Transaction>
+    <Transaction>2012/04/25 00:44:07.147,C:\D\Programinhas\C-C++\ProxyMack\desabilita.bat=C:\D\Programinhas\C-C++\ProxyMack\New1.bat</Transaction>
+  </Transactions>
+</BorlandProject>
